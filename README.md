@@ -16,13 +16,13 @@
    multiple players and assigns 5 cards to each player(in order of 
    input), and then prints the winners after printing classification 
    description of each player's hand.
-  
- * The program decides the winner in the following manner :-
  
  * There are nine classifications of hand in Poker:
    Straight flush, Four of a kind, Full house, Flush, Straight,
    Three of a kind, Two pair, One pair, High card
    (in decreasing order of precedence)
+   
+ * The program decides the winner in the following manner :-
   
    * In case of multiple players, the player with higher precedence hand wins.
  
