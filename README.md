@@ -24,21 +24,22 @@
    Three of a kind, Two pair, One pair, High card
    (in decreasing order of precedence)
   
- * In case of multiple players, the player with higher precedence hand wins.
- * If there are multiple players with same hand classification, rank of
-   cards is used to break the tie, as follows:
- * Straight flush: Rank of highest ranking card
- * Four of a kind: Rank of the set of four card, followed by rank of last card
- * Full house: Rank of the set of three, followed by rank of pair
- * Flush: Rank of the cards from highest to lowest rank.
- * Straight: Rank of highest ranking card
- * Three of a kind: Rank of set of three, followed by rank of remaining cards 
- * in decreasing order of ranks
- * Two pair: Rank of pair with higher rank, followed by rank of other pair,
- * followed by rank of last card
- * One pair: Rank of the pair, followed by rank of remaining cards in 
- * decreasing order of ranks
- * High cards: Rank of the cards from highest to lowest rank.
+   * In case of multiple players, the player with higher precedence hand wins.
+ 
+   * If there are multiple players with same hand classification, rank of
+     cards is used to break the tie, as follows:
+      Straight flush: Rank of highest ranking card
+      Four of a kind: Rank of the set of four card, followed by rank of last card
+      Full house: Rank of the set of three, followed by rank of pair
+      Flush: Rank of the cards from highest to lowest rank.
+      Straight: Rank of highest ranking card
+      Three of a kind: Rank of set of three, followed by rank of remaining cards 
+         in decreasing order of ranks
+      Two pair: Rank of pair with higher rank, followed by rank of other pair,
+         followed by rank of last card
+      One pair: Rank of the pair, followed by rank of remaining cards in 
+         decreasing order of ranks
+      High cards: Rank of the cards from highest to lowest rank.
   
- * In case the tie could not be broken with this, a draw is declared.
+   * In case the tie could not be broken with this, a draw is declared.
  
