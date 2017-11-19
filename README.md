@@ -30,11 +30,11 @@
  * Flush: Rank of the cards from highest to lowest rank.
  * Straight: Rank of highest ranking card
  * Three of a kind: Rank of set of three, followed by rank of remaining cards 
- *                  in decreasing order of ranks
+ * in decreasing order of ranks
  * Two pair: Rank of pair with higher rank, followed by rank of other pair,
- *           followed by rank of last card
+ * followed by rank of last card
  * One pair: Rank of the pair, followed by rank of remaining cards in 
- *           decreasing order of ranks
+ * decreasing order of ranks
  * High cards: Rank of the cards from highest to lowest rank.
  *
  * In case the tie could not be broken with this, a draw is declared.
