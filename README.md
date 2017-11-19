@@ -1,4 +1,6 @@
 # Poker
+
+` The program is currently terminal only, with a cross platform implementation planned for future`
 /* TO RUN from terminal:-
  * `javac ./src/*.java -d ./bin/`
  * `java ./bin/Poker`
