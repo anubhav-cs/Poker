@@ -3,7 +3,9 @@
 ` The program is currently terminal only, with a cross platform implementation planned for future`
 
  * TO RUN from terminal:-
+ 
    `javac ./src/*.java -d ./bin/`
+   
    `java ./bin/Poker`
   
  * The Poker program takes cards as command line arguments, in multiple of 5
