@@ -6,7 +6,9 @@
  
    `javac ./src/*.java -d ./bin/`
    
-   `java ./bin/Poker`
+   `java ./bin/Poker <Cards numbering in multiple of 5>`
+   
+   Example `java ./bin/Poker 2A 3A 4A 5A 6A`
   
  * The Poker program takes cards as command line arguments, in multiple of 5
  * A card is input as string of 2 characters with the first character
